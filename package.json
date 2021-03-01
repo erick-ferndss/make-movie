@@ -1,0 +1,25 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "uma aplicação para criar videos automaticos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erick-ferndss/video-maker.git"
+  },
+  "keywords": [" "],
+  "author": "erick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erick-ferndss/video-maker/issues"
+  },
+  "homepage": "https://github.com/erick-ferndss/video-maker#readme",
+  "dependencies": {
+    "brew": "^0.0.8",
+    "readline-sync": "^1.4.10",
+    "vim": "^0.1.0"
+  }
+}
